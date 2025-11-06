@@ -196,8 +196,8 @@ Access tokens can include progression tracks:
 ## Related Documentation
 
 - [Blockchain_Integration](Blockchain_Integration.md) - Overall Web3 architecture
-- [NFT_Mech_Pilots](NFT_Mech_Pilots.md) - Characters accessing exclusive content
-- [NFT_Mech_Suits](NFT_Mech_Suits.md) - Gear potentially gated by access tokens
+- [EV2_Combat_Suits](EV2_Combat_Suits.md) - Suit classes and progression
+- [NFT_Gear](NFT_Gear.md) - Gear potentially gated by access tokens
 - [Monetization_Schemas](Monetization_Schemas.md) - Revenue models for access tokens
 - [Second-Hand Economy](Second-Hand Economy.md) - Trading transferable access tokens
 

@@ -282,7 +282,7 @@ Guild-exclusive content availability:
 ## Related Documentation
 
 - [Blockchain_Integration](Blockchain_Integration.md) - Overall Web3 architecture and DAO structure
-- [NFT_Mech_Pilots](NFT_Mech_Pilots.md) - Pilots contributing to guild progression
+- [EV2_Combat_Suits](EV2_Combat_Suits.md) - Players contributing to guild progression
 - [NFT_Access_Tokens](NFT_Access_Tokens.md) - Guild-exclusive content access
 - [Monetization_Schemas](Monetization_Schemas.md) - Guild monetization mechanics
 - [Second-Hand Economy](Second-Hand Economy.md) - Guild token trading and valuation

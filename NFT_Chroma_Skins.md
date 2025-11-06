@@ -175,8 +175,8 @@ The combination of:
 ## Related Documentation
 
 - [Blockchain_Integration](Blockchain_Integration.md) - Overall Web3 architecture
-- [NFT_Mech_Pilots](NFT_Mech_Pilots.md) - Character pilots customized with chromas
-- [NFT_Mech_Suits](NFT_Mech_Suits.md) - Base suits that chromas are applied to
+- [EV2_Combat_Suits](EV2_Combat_Suits.md) - Suit classes that chromas customize
+- [NFT_Gear](NFT_Gear.md) - Gear pieces that can be chromatized
 - [NFT_Weapons](NFT_Weapons.md) - Weapons that can be chromatized
 - [Second-Hand Economy](Second-Hand Economy.md) - Trading and cosmetic valuation
 
