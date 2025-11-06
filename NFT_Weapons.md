@@ -1,282 +1,150 @@
-# Weapon Component System
+# Weapon Component System (NFT)
 
 ## Overview
 
-EV2's weapon system empowers players to **craft personalized firearms** using **modular components** looted from enemies/players or purchased with Holocrons (soft currency) and EV2 Tokens (hard currency). Components are tradeable NFTs that allow deep customization tailored to complement your suit (Brute, Cloaker, Pathfinder, Mag, Valkyrie) and playstyle across PC, PS5, and Xbox.
+EV2's weapon system enables players to **craft personalized firearms** using **modular components** that are tradeable NFTs. Components are looted from enemies/players or purchased with Holocrons (soft currency, earned free) and EV2 Tokens (hard currency, purchased/won).
 
-Unlike traditional looter-shooters with fixed weapon drops, EV2 lets you **build your own guns** by combining six component types: **bullets, barrels, triggers, mags, stocks, and scopes**. Each component modifies weapon stats like DPS, Range, Intensity, Shots per Minute, and Stability.
-
----
-
-## Weapon Types
-
-EV2 features three foundational weapon types, each with distinct characteristics:
-
-### Bullet Weapons
-- **Characteristics**: High Shots per Minute, moderate DPS
-- **Examples**: Hand Cannons, Auto Rifles, SMGs, Sniper Rifles, Pistols
-- **Best For**: Precision builds (Cloaker), sustained fire (Brute)
-- **Playstyle**: Traditional gunplay with modular attachments
-
-### Beam Weapons
-- **Characteristics**: Continuous damage, high Stability
-- **Examples**: Trace Rifles, Laser Weapons, Plasma Beams
-- **Best For**: Sustained DPS (Mag), energy-focused builds
-- **Playstyle**: Hold-to-fire mechanics with minimal recoil
-
-### Rocket Weapons
-- **Characteristics**: High DPS, low Shots per Minute
-- **Examples**: Rocket Launchers, Grenade Launchers, Heavy Machine Guns
-- **Best For**: AOE damage (Brute), explosive builds
-- **Playstyle**: Burst damage with reload downtime
+Unlike fixed weapon drops, EV2 lets you **build custom weapons** by combining six component types: **bullets, barrels, triggers, mags, stocks, and scopes**. Each component modifies weapon stats (DPS, Range, Intensity, Shots per Minute, Stability) and is a separate NFT asset.
 
 ---
 
-## Modular Component System
+## The Six Component Types (All NFTs)
 
-### The Six Component Types
-
-Each weapon is crafted by combining **six components**, each modifying different stats:
-
-#### 1. Bullets
+### 1. Bullets
 - **Function**: Sets base **damage type** (Acid, Armor Buster, Fire, Ice, Impact, Lightning, Shield Breaker)
-- **Impact**: Determines elemental/status effects
-- **Examples**:
-  - Fire Bullets: Burning DOT
-  - Ice Bullets: Freezing/slowing
-  - Armor Buster Bullets: Penetrates armor
-  - Lightning Bullets: Chain damage
-- **NFT Rarity**: Common, Uncommon, Rare, Epic, Legendary, Exotic
+- **NFT Value**: Damage type affects PvE/PvP effectiveness; rarer bullets have stronger effects
 
-#### 2. Barrels
-- **Function**: Adjusts **Range** and **Intensity** (effective damage output)
-- **Impact**: Long barrels increase range; short barrels boost close-range damage
-- **Examples**:
-  - Long Barrel: +Range, sniper builds
-  - Short Barrel: +Intensity, close-quarters builds
-  - Stabilized Barrel: Balanced Range and Intensity
-- **NFT Rarity**: Common, Uncommon, Rare, Epic, Legendary, Exotic
+### 2. Barrels
+- **Function**: Adjusts **Range** and **Intensity** (damage output)
+- **NFT Value**: Long barrels (sniper builds) vs short barrels (close-quarters) serve different metas
 
-#### 3. Triggers
+### 3. Triggers
 - **Function**: Modifies **Shots per Minute** (fire rate)
-- **Impact**: Rapid-fire triggers for SMGs; slow, powerful triggers for Hand Cannons
-- **Examples**:
-  - Rapid-Fire Trigger: High Shots per Minute
-  - Precision Trigger: Low Shots per Minute, higher accuracy
-  - Burst Trigger: Fire in controlled bursts
-- **NFT Rarity**: Common, Uncommon, Rare, Epic, Legendary, Exotic
+- **NFT Value**: Rapid-fire triggers for DPS vs precision triggers for accuracy-focused builds
 
-#### 4. Mags (Magazines)
+### 4. Mags (Magazines)
 - **Function**: Affects **ammo capacity** and **reload speed**
-- **Impact**: Large mags = more ammo, slower reload; small mags = fast reload
-- **Examples**:
-  - Extended Mag: +Ammo capacity, slower reload
-  - Quick-Reload Mag: Fast reload, standard capacity
-  - Drum Mag: Massive capacity, very slow reload
-- **NFT Rarity**: Common, Uncommon, Rare, Epic, Legendary, Exotic
+- **NFT Value**: Extended mags for sustained fire vs quick-reload mags for burst playstyles
 
-#### 5. Stocks
+### 5. Stocks
 - **Function**: Enhances **Stability** and **recoil control**
-- **Impact**: Heavy stocks reduce recoil; light stocks improve handling
-- **Examples**:
-  - Heavy Stock: Maximum Stability, slower aim
-  - Light Stock: Fast aim, moderate Stability
-  - Adjustable Stock: Balanced Stability and handling
-- **NFT Rarity**: Common, Uncommon, Rare, Epic, Legendary, Exotic
+- **NFT Value**: Heavy stocks for precision vs light stocks for mobility
 
-#### 6. Scopes
+### 6. Scopes
 - **Function**: Improves **Aim Assist**, **Range**, and **precision**
-- **Impact**: High-magnification scopes for sniping; red dots for close-range
-- **Examples**:
-  - Red Dot Sight: 1x magnification, precision reticle
-  - 4x Scope: Long-distance precision
-  - Holographic Sight: Projected reticle for mid-range
-  - Thermal Scope: Heat signature detection
-- **NFT Rarity**: Common, Uncommon, Rare, Epic, Legendary, Exotic
+- **NFT Value**: Thermal scopes, 4x scopes, holographic sights for different engagement ranges
 
 ---
 
-## Weapon Stats Explained
+## Weapon Stats
 
-### Core Stats Modified by Components
+Weapon performance determined by component combination:
 
-- **DPS (Damage Per Second)**: Total damage output; affected by bullets, barrels, triggers
-- **Range**: Effective distance before damage falloff; affected by barrels, scopes
-- **Intensity**: Damage multiplier at optimal range; affected by barrels, bullets
-- **Shots per Minute**: Fire rate; affected by triggers
-- **Stability**: Recoil control and accuracy; affected by stocks, barrels
+- **DPS**: Damage per second (bullets + barrels + triggers)
+- **Range**: Effective distance before damage falloff (barrels + scopes)
+- **Intensity**: Raw damage output at optimal range (bullets + barrels)
+- **Shots per Minute**: Fire rate (triggers)
+- **Stability**: Recoil control and accuracy (stocks)
 
-### Stat Synergies
+---
 
-Components create synergies when combined strategically:
+## Rarity Tiers & NFT Value
 
-- **Sniper Build**: Long Barrel + Precision Trigger + 4x Scope + Armor Buster Bullets = High-range, high-damage precision weapon
-- **SMG Rush Build**: Short Barrel + Rapid-Fire Trigger + Extended Mag + Fire Bullets = Close-range, high fire-rate DOT weapon
-- **Rocket AOE Build**: Heavy Barrel + Burst Trigger + Explosive Mag + Lightning Bullets = High DPS, chain-damage explosive
+Components spawn at six rarity levels, with higher tiers commanding premium prices on secondary markets:
+
+### Common
+- **Stats**: Baseline performance
+- **Cost**: Low (Holocrons)
+- **Market Value**: Minimal
+
+### Uncommon
+- **Stats**: +5-10% bonuses
+- **Cost**: Low (Holocrons)
+- **Market Value**: Low
+
+### Rare
+- **Stats**: +10-20% bonuses
+- **Cost**: Moderate (Holocrons)
+- **Market Value**: Moderate
+
+### Epic
+- **Stats**: +20-30% bonuses
+- **Cost**: High (Holocrons or EV2 Tokens)
+- **Market Value**: High
+
+### Legendary
+- **Stats**: +30-50% bonuses
+- **Cost**: Very high (EV2 Tokens)
+- **Market Value**: Very High
+
+### Exotic
+- **Stats**: +50%+ bonuses with unique effects
+- **Cost**: Premium (EV2 Tokens, tournament rewards)
+- **Market Value**: Extreme
 
 ---
 
 ## Component Acquisition
 
-### Looting
-
-Components drop from enemies (PvE) or players (PvP):
-
+### Looting (Primary Method)
 - **Enemy Drops**: Kill enemies to loot random components
-- **Player Drops**: In PvP, looting defeated players yields gear and components
-- **Boss Rewards**: Rare/Epic/Legendary components from challenging encounters
-- **Event Rewards**: Limited-time events distribute Exotic components
-- **Loot Chests**: Hidden chests contain components
+- **Player Drops** (PvP): Loot defeated players for components (risk: losing common components if killed)
+- **Boss Rewards**: Rare/Epic/Legendary components from bosses
+- **Raid Drops**: Exotic components from 6-player raids
 
 ### Purchasing with Currency
+- **Holocrons** (Free-to-Earn): Purchase Common, Uncommon, Rare components
+- **EV2 Tokens** (Purchased/Won): Purchase Epic, Legendary, Exotic components
 
-Components available via in-game stores:
-
-- **Holocrons (Soft Currency)**: Earned free through gameplay (PvE drops, missions, kills, daily challenges)
-  - Purchase Common, Uncommon, Rare components
-  - Repetitive earning allows free progression
-- **EV2 Tokens (Hard Currency)**: Purchased or won in tournaments
-  - Purchase Epic, Legendary, Exotic components
-  - Faster progression or skip grinding
-
-### Crafting Weapons
-
+### Crafting
 Combine six components to craft a complete weapon:
-
-1. Select weapon type (Bullet, Beam, or Rocket)
-2. Choose one component from each category (bullets, barrel, trigger, mag, stock, scope)
-3. Preview stats (DPS, Range, Intensity, Shots per Minute, Stability)
-4. Craft weapon (mints as NFT)
-5. Equip on compatible suit (check weapon restrictions per suit)
+- Each component remains a separate NFT
+- Future: EIP-998 composable NFTs to bundle 6 components into single weapon NFT
 
 ### Secondary Market Trading
-
-Components are tradeable NFTs on secondary markets:
-
-- Trade individual components (e.g., Exotic Fire Bullets)
-- Trade complete weapons (all 6 components as bundle)
-- See [Second-Hand Economy](Second-Hand Economy.md) for pricing dynamics
+- Trade individual components on blockchain marketplaces
+- Component prices fluctuate based on meta (PvP/PvE effectiveness)
+- Suit-specific demand affects prices (e.g., Auto-Cannon components valuable to Brute players)
 
 ---
 
-## Rarity Tiers
+## Suit Weapon Restrictions (Affects NFT Value)
 
-Components spawn at six rarity levels, affecting stat bonuses:
-
-### Common
-- **Availability**: Abundant drops from all sources
-- **Stats**: Baseline, no bonuses
-- **Cost**: Free (Holocrons)
-
-### Uncommon
-- **Availability**: Frequent drops
-- **Stats**: +5-10% stat boost
-- **Cost**: Low (Holocrons)
-
-### Rare
-- **Availability**: Occasional drops
-- **Stats**: +10-20% stat boost
-- **Cost**: Moderate (Holocrons)
-
-### Epic
-- **Availability**: Rare drops from bosses/events
-- **Stats**: +20-30% stat boost
-- **Cost**: High (Holocrons or EV2 Tokens)
-
-### Legendary
-- **Availability**: Very rare drops
-- **Stats**: +30-50% stat boost
-- **Cost**: Very high (EV2 Tokens)
-
-### Exotic
-- **Availability**: Extremely rare, tournament rewards
-- **Stats**: +50%+ stat boost, unique effects
-- **Cost**: Premium (EV2 Tokens or high-stakes tournaments)
-
-**Note**: Higher rarity = stronger stats, but smart synergies with Rare components can outperform poorly-built Legendary weapons.
-
----
-
-## Weapon Skill Leveling
-
-Beyond crafting, weapons gain experience through usage:
-
-### Leveling Mechanics
-- **Combat XP**: Every shot, kill, and hit generates weapon experience
-- **Mission Performance**: Objectives grant bonus XP
-- **Skill Unlocks**: Leveling unlocks weapon mastery bonuses (e.g., faster reload, increased critical chance)
-- **Permanent Progression**: Weapon skill levels persist, increasing weapon value on secondary market
-
-### Weapon Mastery
-- **Beginner (Levels 1-10)**: Basic proficiency
-- **Intermediate (Levels 11-25)**: Unlock stat bonuses (+5% DPS, +10% Stability)
-- **Advanced (Levels 26-50)**: Major bonuses (+15% DPS, +20% Stability, faster reload)
-- **Master (Levels 51+)**: Elite bonuses (+25% DPS, +30% Stability, unique perks)
-
----
-
-## Suit Weapon Restrictions
-
-Each suit has specific weapon restrictions based on role:
+Each suit has **specific weapon compatibility**, creating distinct NFT markets:
 
 ### Brute (Tank)
-- **Allowed**: All handheld guns except Heavy/Machine Pistols
-- **Includes**: Auto-Cannons, Grenade Launchers
-- **Best For**: Rocket weapons, high DPS builds
+- **Cannot Use**: Heavy Pistols, Machine Pistols
+- **Unique Access**: Auto-Cannons
+- **High-Value Components**: Auto-Cannon parts, Rocket Launcher components
 
 ### Cloaker (Assassin)
-- **Allowed**: All handheld guns except Auto-Cannons/Grenade Launchers
-- **Includes**: Heavy Pistols, Machine Pistols, Hunting Rifles, SMGs
-- **Best For**: Precision bullet weapons, stealth snipers
+- **Cannot Use**: Auto-Cannons, Grenade Launchers
+- **Unique Access**: Hunting Rifles, SMGs
+- **High-Value Components**: Sniper/Hunting Rifle parts, stealth-optimized scopes
 
 ### Pathfinder (Pet/Support)
-- **Allowed**: All handheld guns except Auto-Cannons/Grenade Launchers
-- **Includes**: Heavy Pistols, Machine Pistols
-- **Best For**: Balanced bullet/beam weapons, drone synergy
+- **Cannot Use**: Rocket Launchers, Auto-Cannons
+- **Unique Access**: Scout Rifles, LMGs
+- **High-Value Components**: Scout Rifle parts, sustained-fire components
 
 ### Mag (Caster DPS/Heal)
-- **Allowed**: All handheld guns except Auto-Cannons/Grenade Launchers
-- **Includes**: Heavy Pistols, Machine Pistols
-- **Best For**: Beam weapons, energy-focused builds
+- **Cannot Use**: Shotguns, Auto-Cannons
+- **Unique Access**: Beam Rifles, Scout Rifles
+- **High-Value Components**: Beam weapon parts, energy-focused components
 
 ### Valkyrie (Support/Tank-Healer)
-- **Allowed**: All handheld guns except Auto-Cannons
-- **Includes**: Heavy Pistols, Machine Pistols, Grenade Launchers
-- **Best For**: Tactical support weapons, rift synergy
+- **Cannot Use**: Heavy Pistols, Grenade Launchers
+- **Unique Access**: All Rifles, Beam weapons
+- **High-Value Components**: Versatile rifle parts, balanced components
 
 ---
 
-## Damage Types & Elemental Effects
+## Weapon Skill Leveling (Non-NFT Progression)
 
-Bullets determine damage type, affecting enemies differently:
-
-### Acid
-- **Effect**: Damage over time (DOT)
-- **Best Against**: Enemies weak to corrosion
-
-### Armor Buster
-- **Effect**: Penetrates armor
-- **Best Against**: Heavy armored Vreck
-
-### Fire
-- **Effect**: Burning DOT
-- **Best Against**: Organic enemies
-
-### Ice
-- **Effect**: Freezing, slowing movement
-- **Best Against**: Fast enemies
-
-### Impact
-- **Effect**: Knockback, stagger
-- **Best Against**: Melee enemies
-
-### Lightning
-- **Effect**: Chain damage to nearby enemies
-- **Best Against**: Groups of enemies
-
-### Shield Breaker
-- **Effect**: Anti-shield bonus damage
-- **Best Against**: Shielded enemies
+Weapon mastery progression is **account-bound** (NOT an NFT):
+- **XP System**: Weapons gain XP through usage
+- **Mastery Bonuses**: Unlocks handling improvements, reload speed, aim assist
+- **Persistent**: Mastery progress stays with your account, not the NFT
 
 ---
 
@@ -284,52 +152,34 @@ Bullets determine damage type, affecting enemies differently:
 
 ### Blockchain Integration
 - **Asset Type**: EIP-721 NFTs (individual components)
-- **Composability**: Future EIP-998 support for complete weapon assemblies
 - **Network**: Avalanche C-Chain (AVAX)
 - **Tradeable**: All components tradeable on secondary markets
 - **Verifiable**: On-chain stats and rarity
-- **Interoperable**: Potential cross-game component usage (see [Third-Party Integration](Third_Party_Integration.md))
+- **Future**: EIP-998 composable NFTs for complete weapon assemblies
 
 ### Web3 Rewards
-- **Play-to-Earn**: High-performance kills in PvP/PvE earn EV2 tokens
-- **Tournaments**: Apex Trials and Eclipse Strikes with component rewards
+- **Play-to-Earn**: Apex Trials (3v3 PvP) with EV2 token buy-ins
+- **Tournament Rewards**: High-stakes competitions with Exotic component prizes
 - **Battle Pass**: Season passes unlock Legendary/Exotic components
 
 ---
 
-## Strategy & Build Optimization
+## Strategy & NFT Market Dynamics
 
-### Example Builds
+### Meta-Driven Pricing
+- Component prices fluctuate based on PvP/PvE meta
+- Popular damage types (e.g., Armor Buster in tank-heavy meta) command premium prices
+- Suit-specific components create niche markets
 
-#### Cloaker Sniper Build
-- **Weapon Type**: Bullet (Sniper Rifle)
-- **Bullets**: Armor Buster (penetrate armor)
-- **Barrel**: Long Barrel (+Range)
-- **Trigger**: Precision Trigger (low fire rate, high accuracy)
-- **Mag**: Quick-Reload Mag (fast reload)
-- **Stock**: Heavy Stock (+Stability)
-- **Scope**: 4x Scope (+Range, precision)
-- **Result**: High-range, high-damage precision weapon for assassination
+### Build Optimization
+- Min-maxers pay premium for perfect component combinations
+- "God rolls" (perfect stat combos) can be worth 10x+ normal components
+- Flexibility: Swap components to adapt to meta shifts without buying new weapons
 
-#### Brute Tank Rocket Build
-- **Weapon Type**: Rocket (Grenade Launcher)
-- **Bullets**: Lightning (chain damage)
-- **Barrel**: Heavy Barrel (+Intensity)
-- **Trigger**: Burst Trigger (controlled bursts)
-- **Mag**: Drum Mag (massive capacity)
-- **Stock**: Heavy Stock (+Stability)
-- **Scope**: Red Dot Sight (close-range targeting)
-- **Result**: High DPS, AOE explosive with chain lightning for crowd control
-
-#### Mag Beam Caster Build
-- **Weapon Type**: Beam (Trace Rifle)
-- **Bullets**: Fire (burning DOT)
-- **Barrel**: Stabilized Barrel (balanced)
-- **Trigger**: Rapid-Fire Trigger (high fire rate)
-- **Mag**: Extended Mag (+ammo capacity)
-- **Stock**: Light Stock (fast aim)
-- **Scope**: Holographic Sight (mid-range precision)
-- **Result**: Continuous fire beam with burning DOT for sustained DPS
+### Investment Strategy
+- Early adopters can profit by identifying meta shifts
+- Exotic components from tournaments retain long-term value
+- Complete builds (6 components) sold as bundles command higher prices
 
 ---
 
