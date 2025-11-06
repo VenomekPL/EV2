@@ -112,12 +112,6 @@ This is your starting point for the EV2 documentation. Explore the following sec
 ### Economy
 - [Second-Hand Economy](Second_Hand_Economy.md) - Multi-platform P2P trading ecosystem
 
-### Coming Soon
-- Monetization Systems - Economic overview and sustainability
-- Game Features - Detailed gameplay mechanics
-- Characters & Progression - Pilot development and advancement
-- Loot & Gear - Equipment systems and customization
-
 ---
 
 ## Blockchain Specifications
@@ -128,10 +122,10 @@ This is your starting point for the EV2 documentation. Explore the following sec
 - **Asset Standards**: ERC-721, ERC-998, ERC-1155, ERC-2535 and related
 
 ### NFT Standards
-- **Standard NFTs**: ERC-721 (Mech Pilots, Chroma Skins, Access Tokens, Guild Tokens)
-- **Composable NFTs**: ERC-998 (Artifacts - power slot modifications)
-- **Multi-Token**: ERC-1155 (Future cosmetics and batch operations)
-- **Diamond Pattern**: ERC-2535 (Modular smart contract architecture for upgrades)
+- **Standard NFTs**: [EIP-721](https://eips.ethereum.org/EIPS/eip-721) (Mech Pilots, Chroma Skins, Access Tokens, Guild Tokens)
+- **Composable NFTs**: [EIP-998](https://eips.ethereum.org/EIPS/eip-998) (Artifacts - power slot modifications)
+- **Multi-Token**: [EIP-1155](https://eips.ethereum.org/EIPS/eip-1155) (Future cosmetics and batch operations)
+- **Diamond Pattern**: [EIP-2535](https://eips.ethereum.org/EIPS/eip-2535) (Modular smart contract architecture for upgrades)
 
 ### Wallet Architecture
 - **Non-Custodial**: Players control private keys directly

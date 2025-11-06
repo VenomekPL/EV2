@@ -73,68 +73,7 @@ Each booster pack contains:
 - Pilots + suits transferable = easy redistribution among player base
 - Estimated 10,000-30,000 active players from single edition
 
-### Edition Rotation Examples
 
-Different booster editions released over time:
-
-#### "Sentinel Booster Pack"
-- 2 Randomized Pilots
-- 1 Advanced Mech Suit (rare rarity)
-- 3 Weapon Blueprints
-- 1 Artifact (entry-level)
-- 3,000 Premium Currency Points
-- Price: $35 USD
-- Supply: 8,000 packs
-
-#### "Forge Booster Pack"
-- 5 Randomized Weapon Blueprints
-- 2 Artifact Components
-- 10 Crafting Materials
-- 1 Legendary Chroma Skin
-- 4,000 Premium Currency Points
-- Price: $40 USD
-- Supply: 5,000 packs
-
-#### "Guild Founder Pack"
-- 5 Randomized Pilots
-- 5 Mech Suits
-- 3 Artifact Trinkets
-- Exclusive Guild Emblem Cosmetic
-- 10,000 Premium Currency Points
-- Price: $99 USD
-- Supply: 2,000 packs
-- Special: Includes founding member status in player-created guild
-
-### Limited-Time Event Packs
-
-Special packs tied to events and seasons:
-
-#### Event Pack Features
-- **Time-Limited**: Available only during specific event (2-4 week window)
-- **Unique Contents**: Items exclusive to event pack
-- **FOMO Incentive**: Limited availability creates urgency
-- **Seasonal Rotation**: Different events cycle in and out like "banners" in Genshin Impact
-- **Community Event Tie-In**: Pack rewards support event mechanics
-- **Rotating Catalog**: Missed packs never return (except legacy rotations)
-
-#### Example Event: "Hive Invasion Event Pack"
-- Duration: 3 weeks
-- 4 Hive-Specialized Pilots (event-exclusive feat combinations)
-- 2 Hive-Killer Weapon Blueprints (bonus damage vs Hive)
-- 1 Event-Exclusive Chroma (Hive corruption aesthetic)
-- 3 Event-Specific Access Tokens (Hive raid dungeon access)
-- 3,000 Premium Currency Points
-- Price: $25 USD
-- Supply: 15,000 packs
-
-#### Banner Rotation Schedule
-
-- **Week 1-4**: Pioneer Booster Pack available
-- **Week 2-3**: Limited Event Pack #1 overlaps with Pioneer
-- **Week 4-7**: Sentinel Booster Pack available
-- **Week 6-7**: Limited Event Pack #2 overlaps with Sentinel
-- **Week 8-11**: Forge Booster Pack available
-- Pattern continues with continuous rotation
 
 ---
 
@@ -208,8 +147,8 @@ Special ultra-premium items for guild organizers:
 
 - Packs priced just below round numbers ($29.99 vs $30)
 - Bundle discounts for multi-pack purchases
-- Limited-time discounts for event packs (+20% value)
 - Seasonal sales creating purchasing urgency
+- Limited-time promotional pricing
 
 ---
 
@@ -254,10 +193,9 @@ Limited production creates natural scarcity:
 #### Supply Economics
 
 - **10,000 Pioneer Packs**: Abundant for first edition, but cap prevents oversupply
-- **8,000 Sentinel Packs**: Slightly more scarce second edition
-- **5,000 Forge Packs**: Rare third edition
 - **Declining Supply**: Later editions increasingly limited
 - **Eventual Rotation**: First editions rotate back after player demand evident
+- **Edition Lifecycle**: Each edition cycle maintained to balance scarcity with accessibility
 
 #### Unopened Pack Collectibility
 
@@ -314,146 +252,17 @@ All randomization fully disclosed:
 
 ---
 
-## Monetization Timeline Example
-
-### Launch Strategy
-
-**Month 1-2: Soft Launch**
-- Pioneer Booster Pack available
-- Conservative marketing, focus on core players
-- Establish drop rates and balance
-- Community feedback gathering
-
-**Month 2-3: Expansion**
-- Sentinel Booster Pack released
-- Pioneer packs continue
-- First limited event pack introduced
-- Growing player base
-
-**Month 3-4: Seasonal Cycle**
-- Forge Booster Pack released
-- Event pack rotation established
-- Guild Founder Tokens available
-- Community trading active
-
-**Ongoing: Steady State**
-- 3-4 booster editions available simultaneously
-- New event pack every 2-4 weeks
-- Secondary market trading sustains economy
-- Monthly recurring spending from engaged base
-
----
-
-## Expected Player Lifecycles
-
-### Free-to-Play Player
-- Download game, play for free
-- Earn in-game currency and blueprints
-- Eventually spend $10 on promotional pack
-- Access to 30-100 NFT assets
-- Can trade earned assets to acquire pack contents
-
-### Casual Player
-- Monthly $10-15 spend on seasonal event packs
-- Accumulates variety of pilots, suits, cosmetics
-- Participates in secondary market trading
-- Feels invested without financial burden
-- Long-term retention through content variety
-
-### Enthusiast Player
-- Monthly $25-50 spend on multiple booster editions
-- Actively collects and trades
-- Participates in guilds (optional higher spending)
-- Optimizes builds with rare artifacts/weapons
-- High retention through engagement loops
-
-### Whale Player
-- Monthly $100-500+ spend on multiple editions + cosmetics
-- Purchases Guild Founder Token ($1,000)
-- Collects unopened legacy packs
-- Participates in secondary market speculation
-- Premium community status and recognition
-
----
-
-## Secondary Market Revenue Share
-
-### Monetization from Ecosystem Activity
-
-While packs are primary revenue, secondary market activity generates:
-
-#### Creator Royalties
-
-- **Standard NFT Royalty**: 3-5% of secondary market sales
-- **Applied To**: All booster pack contents when traded
-- **Example**: Pilot sells for $100, creator receives $3-5
-- **Accumulation**: With millions in trading volume, significant recurring revenue
-
-#### Platform Fees (Optional)
-
-- **In-Game Marketplace**: 5% transaction fee (from seller, buyer, or split)
-- **3rd Party Markets**: OpenSea collects fees, but EV2 earns royalties
-
----
-
-## Sustainability & Balance
-
-### Economic Lifecycle
-
-**Launch Phase (Months 1-3):**
-- High player acquisition through booster appeal
-- Strong revenue from new player spending
-- Community building through packs
-
-**Growth Phase (Months 3-12):**
-- Continued new editions maintain engagement
-- Secondary market trading becomes active
-- Word-of-mouth organic growth
-- Sustained player spending
-
-**Maturity Phase (Year 2+):**
-- Stable player base with churn management
-- New content and editions drive spending
-- Secondary market sustains engagement
-- Live service updates maintain relevance
-
-### Risk Mitigation
-
-- **Oversaturation**: Cap editions to prevent supply flood
-- **Price Inflation**: Carefully control edition supplies vs demand
-- **Fatigue**: Rotate editions to prevent "same pack fatigue"
-- **Competitor Entry**: Continuous innovation keeps packs valuable
-- **Market Crashes**: Secondary market natural price discovery prevents bubbles
-
----
-
-## Implementation Notes
-
-**This monetization schema is suggested guidance only.** Final decisions rest with Funtico and development team.
-
-Considerations for refinement:
-- Regional pricing adjustments
-- Currency fluctuation management
-- Seasonal demand forecasting
-- Secondary market fee structure
-- Creator royalty percentages
-- Edition supply balancing
-- New player acquisition costs
-- Live service content roadmap
-
----
-
-## Related Documentation
+## See Also
 
 - [Second-Hand Economy](Second-Hand Economy.md) - Secondary market and booster trading
-- [Third_Party_Integration](Third_Party_Integration.md) - Cross-game NFT partnerships and revenue
+- [Third-Party Integration](Third_Party_Integration.md) - Cross-game NFT partnerships and revenue
 - [Monetization Anti-Patterns](Monetization Anti-Patterns.md) - What NOT to do
-- [In-Game_Currency_Rewards](In-Game_Currency_Rewards.md) - Premium currency in packs
-- [Blockchain_Integration](Blockchain_Integration.md) - NFT technology enabling packs
-- [NFT_Mech_Pilots](NFT_Mech_Pilots.md) - Pilot contents in boosters
-- [NFT_Mech_Suits](NFT_Mech_Suits.md) - Suit contents in boosters
+- [In-Game Currency Rewards](In-Game_Currency_Rewards.md) - Premium currency in packs
+- [Blockchain Integration](Blockchain_Integration.md) - NFT technology enabling packs
+- [NFT Mech Pilots](NFT_Mech_Pilots.md) - Pilot contents in boosters
+- [NFT Mech Suits](NFT_Mech_Suits.md) - Suit contents in boosters
 
-**Return to:** [README](README.md)
+**[← Return to README](README.md)**
 
 ---
 

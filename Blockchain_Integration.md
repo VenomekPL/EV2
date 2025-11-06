@@ -4,7 +4,7 @@
 
 EV2 leverages **WEB3S plugin** for seamless blockchain feature integration on **Avalanche C-Chain (AVAX)**, enabling true Web3 gaming without the complexity of traditional custodial wallet solutions. This integration removes regulatory burdens from the game operator under MiCA European regulation by implementing non-custodial wallet architecture directly within the game client.
 
-All NFT assets utilize EVM-compatible standards (ERC-721, ERC-998, ERC-1155, ERC-2535) deployed on Avalanche's high-speed, low-cost network.
+All NFT assets utilize EVM-compatible standards ([EIP-721](https://eips.ethereum.org/EIPS/eip-721), [EIP-998](https://eips.ethereum.org/EIPS/eip-998), [EIP-1155](https://eips.ethereum.org/EIPS/eip-1155), [EIP-2535](https://eips.ethereum.org/EIPS/eip-2535)) deployed on Avalanche's high-speed, low-cost network.
 
 ---
 
@@ -12,7 +12,7 @@ All NFT assets utilize EVM-compatible standards (ERC-721, ERC-998, ERC-1155, ERC
 
 ### WEB3S Plugin Integration
 
-The WEB3S plugin provides:
+The [WEB3S plugin by Fintech Architects Blockchain (FAB)](https://fab.web3s.app) provides:
 
 - **Non-Custodial Wallet**: Direct blockchain wallet integration within the game client
 - **No Custodial Requirements**: Game operator is not a custodial wallet provider, eliminating MiCA regulatory obligations
@@ -93,47 +93,6 @@ These NFTs are earned through gameplay but can be freely traded, providing a pla
 ### What NOT To Do
 
 ⚠️ [Monetization Anti-Patterns](Monetization_AntiPatterns.md) - Common pitfalls and schemes to avoid
-
----
-
-## NFT Standards & Smart Contracts
-
-### Avalanche C-Chain Deployment
-
-All NFTs are deployed on **Avalanche C-Chain** using EVM-compatible standards:
-
-#### ERC-721 (Non-Fungible Tokens)
-- **Usage**: Mech Pilots, Chroma Skins, Access Tokens, Guild Tokens
-- **Features**: One-of-a-kind assets with unique metadata
-- **Transferability**: Full player-to-player trading capability
-- **Interoperability**: Works with external marketplaces (OpenSea, Blur, X2Y2)
-
-#### ERC-998 (Composable NFTs)
-- **Usage**: Artifacts (power slot modifications)
-- **Features**: NFTs that can hold other NFTs as children
-- **Application**: Artifacts can be nested within and combined with Mech Suits
-- **Flexibility**: Hot-swappable equipment system
-
-#### ERC-1155 (Multi-Token Standard)
-- **Usage**: Future cosmetics, batch operations, and collectibles
-- **Features**: Supports fungible and non-fungible tokens in single contract
-- **Efficiency**: Reduced gas costs for multiple token transfers
-- **Flexibility**: Ideal for limited-edition cosmetic drops
-
-#### ERC-2535 (Diamond Standard)
-- **Usage**: Modular smart contract architecture
-- **Features**: Faceted proxy pattern for upgradeable contracts
-- **Benefits**: Add/remove/replace functionality without redeployment
-- **Governance**: Enable protocol upgrades through DAO voting
-
-### Network Specifications
-
-- **Primary Chain**: Avalanche C-Chain (AVAX)
-- **Network Type**: EVM-Compatible
-- **Transaction Speed**: ~2-3 second finality
-- **Gas Costs**: Significantly lower than Ethereum mainnet
-- **Security**: Inherited from Avalanche consensus protocol
-- **Wallet Support**: MetaMask, Core Wallet, and all major EVM wallets
 
 ---
 
