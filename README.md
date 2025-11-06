@@ -2,35 +2,41 @@
 
 ## Overview
 
-**EV2** is a free-to-play, open-world looter-shooter developed by Funtico and Frozen Dawn Entertainment. Set on a frontier where cutting-edge technology meets the remnants of an ancient civilization, EV2 challenges players to defend humanity against a relentless infestation of alien creatures seeking to drain Earth's life force.
+**EV2** is a free-to-play, Destiny 2-style sci-fi looter-shooter RPG developed by Funtico and Frozen Dawn Entertainment, available on PC (Steam), PS5, and Xbox. Set in a universe where cutting-edge technology meets the remnants of ancient civilizations across five expansive open-world maps, EV2 challenges players to defend humanity against Zadrovan, the Hive Mother, and her relentless interdimensional infestation.
 
-In EV2, you pilot an advanced mech suit (EV2 suit) equipped with powerful weapons and abilities. Face the struggle for survival against otherworldly threats, guided by an unexpected ally: the Everbeast, an immortal deity leading humanity's resistance. Reclaim what was lost and decide humanity's fate in this immersive multiplayer experience.
+In EV2, you fight in one of five advanced **EV2 combat suits**—Brute, Cloaker, Pathfinder, Mag, or Valkyrie—each with unique skills, jetpack flight mechanics, and weapon restrictions. Face otherworldly threats guided by Everbeast, the last uncorrupted El'Dar deity, as you loot enemies for weapons, ammo, gear, and battery resources. Craft custom weapons from modular components, stack gear with stat bonuses, and engage in cooperative PvE campaigns, raids, or competitive PvP modes with Web3 play-to-earn opportunities through EV2 token competitions.
 
 ---
 
 ## Core Features
 
 ### Gameplay Style
-- **Looter-Shooter Mechanics**: Action-packed combat with gear progression and loot collection
-- **Open World Exploration**: Dynamic frontier environment to explore and conquer
-- **Mech Piloting**: Fly and walk in advanced EV2 combat suits
-- **Arsenal Customization**: Equip various weapons and power-ups to suit your playstyle
+- **Looter-Shooter Mechanics**: Destiny 2-inspired combat with weapon crafting, gear progression, and loot collection
+- **Five Open-World Maps**: Expansive biomes from Earth's irradiated wastelands to five fallen El'Dar worlds (Primal, Magic, Psychic, Divine, Tech)
+- **Five EV2 Suits**: Choose from Brute (Tank), Cloaker (Assassin), Pathfinder (Pet/Support), Mag (Caster DPS/Heal), or Valkyrie (Support/Tank-Healer)
+- **Weapon Crafting**: Build custom firearms using modular components (bullets, barrels, triggers, mags, stocks, scopes)
+- **Gear System**: Loot and equip 5 gear pieces (helmet, torso, arms, legs, jetpack) with stat bonuses
+- **Flight Mechanics**: Jetpack-powered aerial combat and traversal across all suit types
 
 ### Multiplayer Modes
-- Single-player missions
-- Online PvP (Player vs Player combat)
-- Online Co-op (cooperative gameplay)
-- Cross-platform multiplayer
+- **PvE**: Campaigns, Strikes, Eclipse Strikes, Dungeons, Raids, Patrols, seasonal activities
+- **PvP (Crucible)**: Control (6v6), Clash (6v6), Rumble (6-player FFA), Elimination (3v3), Survival (3v3), Apex Trials (3v3 with Web3 rewards), Forge Banner (6v6)
+- **PvEvP**: Rift Clash (4v4 hybrid mode with AI enemies and player invasions)
+- **Cross-platform multiplayer**: PC, PS5, Xbox
 
 ---
 
 ## Setting & Narrative
 
-The game is set on a technological frontier where humanity faces its greatest existential threat: an otherworldly Hive infestation spreading across the planet. The remnants of an ancient civilization hint at secrets yet to be uncovered. Humanity's last hope lies with:
+Humanity battles Zadrovan, the Hive Mother, whose interdimensional Vreck infestation threatens to consume all five El'Dar energy frequencies (Primal, Magic, Psychic, Divine, Tech) and evolve into a multiversal singularity. The World Power Organization (WPO) engineers five distinct EV2 combat suits, each channeling a unique El'Dar energy core to counter parasitic corruption:
 
-- **Advanced EV2 Suits**: State-of-the-art mech technology
-- **The Everbeast**: An immortal deity guiding the resistance effort
-- **Skilled Pilots**: Players taking the fight to the alien scourge
+- **Brute**: Graviton Engine (purple) - crushes Vreck with gravity wells
+- **Cloaker**: Spectral Engine (red) - phases through burrow paths
+- **Pathfinder**: Nuclear Engine (yellow) - irradiates parasites on contact
+- **Mag**: Chaos Engine (blue) - disrupts hive-mind signals
+- **Valkyrie**: Rift Engine (green) - seals dimensional breaches
+
+Guided by **Everbeast**, the last uncorrupted El'Dar deity, players traverse five open-world maps—each a fallen world Zadrovan needs to complete her evolution. Your mission: **starve the hive**. Burn her harvest. Deny her the frequencies. Every parasite killed, every Vreck crushed, every world saved is a blow to her godhood.
 
 ---
 
@@ -38,8 +44,8 @@ The game is set on a technological frontier where humanity faces its greatest ex
 
 ### Status
 - **Release Date**: To be announced
-- **Platform**: Steam (PC)
-- **Genre**: Action, Adventure, RPG, Free-to-Play
+- **Platform**: PC (Steam), PS5, Xbox
+- **Genre**: Action, Adventure, RPG, Looter-Shooter, Free-to-Play
 
 ### System Requirements
 
@@ -79,7 +85,12 @@ The game is set on a technological frontier where humanity faces its greatest ex
 
 ## Web3 Integration
 
-EV2 is being positioned as **"The Next Frontier of Web3 Gaming,"** integrating blockchain technology into the gaming experience on **Avalanche C-Chain (AVAX)**. This enables true asset ownership, decentralized economy, and player-driven monetization through ERC-standard NFTs.
+EV2 integrates blockchain technology on **Avalanche C-Chain (AVAX)**, enabling true asset ownership, decentralized economy, and player-driven monetization through EIP-standard NFTs. Key features include:
+
+- **Holocrons**: Soft currency earned free through gameplay (PvE drops, missions, kills, daily challenges)
+- **EV2 Tokens**: Hard currency purchased or won in tournaments for battle passes, storage expansion, bundles, cosmetics, and Web3 competitions
+- **NFT Assets**: Weapon components, gear pieces, chroma skins, and access tokens tradeable on secondary markets
+- **Play-to-Earn**: High-stakes PvP modes (Apex Trials) and select PvE modes with EV2 token buy-ins and rewards
 
 📚 **For detailed information, see:**
 - [Monetization Systems](Monetization_Systems.md)
@@ -101,13 +112,11 @@ This is your starting point for the EV2 documentation. Explore the following sec
 - [Third-Party Integration](Third_Party_Integration.md) - Cross-game NFT partnerships and cosmetic licensing
 
 ### NFT Assets
-- [NFT Mech Pilots](NFT_Mech_Pilots.md) - Player character NFTs with stats and progression
+- [NFT Weapons](NFT_Weapons.md) - Modular weapon component system with crafting
+- [NFT Gear](NFT_Gear.md) - 5-piece armor system (helmet, torso, arms, legs, jetpack) with stat bonuses
 - [NFT Chroma Skins](NFT_Chroma_Skins.md) - Visual cosmetics for suits and weapons
-- [NFT Access Tokens](NFT_Access_Tokens.md) - Content access gating and progression
+- [NFT Access Tokens](NFT_Access_Tokens.md) - Content access gating and Season progression
 - [NFT Guild Tokens](NFT_Guild_Tokens.md) - DAO-based organization management
-- [NFT Mech Suits](NFT_Mech_Suits.md) - Non-purchasable equipment with abilities
-- [NFT Weapons](NFT_Weapons.md) - Complex progression system with modifications
-- [NFT Artifacts](NFT_Artifacts.md) - ERC-998 composable power slot modifications
 
 ### Economy
 - [Second-Hand Economy](Second_Hand_Economy.md) - Multi-platform P2P trading ecosystem
@@ -122,9 +131,9 @@ This is your starting point for the EV2 documentation. Explore the following sec
 - **Asset Standards**: ERC-721, ERC-998, ERC-1155, ERC-2535 and related
 
 ### NFT Standards
-- **Standard NFTs**: [EIP-721](https://eips.ethereum.org/EIPS/eip-721) (Mech Pilots, Chroma Skins, Access Tokens, Guild Tokens)
-- **Composable NFTs**: [EIP-998](https://eips.ethereum.org/EIPS/eip-998) (Artifacts - power slot modifications)
-- **Multi-Token**: [EIP-1155](https://eips.ethereum.org/EIPS/eip-1155) (Future cosmetics and batch operations)
+- **Standard NFTs**: [EIP-721](https://eips.ethereum.org/EIPS/eip-721) (Weapon Components, Gear Pieces, Chroma Skins, Access Tokens, Guild Tokens)
+- **Composable NFTs**: [EIP-998](https://eips.ethereum.org/EIPS/eip-998) (Future: Complete weapon assemblies with attached components)
+- **Multi-Token**: [EIP-1155](https://eips.ethereum.org/EIPS/eip-1155) (Future: Batch operations for components and cosmetics)
 - **Diamond Pattern**: [EIP-2535](https://eips.ethereum.org/EIPS/eip-2535) (Modular smart contract architecture for upgrades)
 
 ### Wallet Architecture

@@ -47,32 +47,30 @@ The [WEB3S plugin by Fintech Architects Blockchain (FAB)](https://fab.web3s.app)
 
 These NFTs are sold directly to players and can be traded on secondary markets.
 
-#### [Mech Pilots NFT](NFT_Mech_Pilots.md)
-- Player character NFTs with randomized stats and leveling progression
-
 #### [Chroma Skins NFT](NFT_Chroma_Skins.md)
-- Visual cosmetics for mecha and weapons using Unreal Engine materials
+- Visual cosmetics for suits and weapons using Unreal Engine materials
 
 #### [Guild Tokens NFT](NFT_Guild_Tokens.md)
 - DAO-based guild organization and governance tokens
 
 #### [Access Tokens NFT](NFT_Access_Tokens.md)
-- Content gating and DLC-style progression access
+- Content gating and Season/DLC-style progression access
 
 ---
 
 ## Non-Purchasable Tradeable NFTs
 
-These NFTs are earned through gameplay but can be freely traded, providing a play-to-earn economy.
+These NFTs are earned through gameplay (looting enemies, crafting, rewards) but can be freely traded on secondary markets, providing a play-to-earn economy.
 
-#### [Mech Suits NFT](NFT_Mech_Suits.md)
-- Equipment platform with abilities and specialization
+#### [Weapon Components NFT](NFT_Weapons.md)
+- Modular weapon components (bullets, barrels, triggers, mags, stocks, scopes)
+- 6 component types that assemble into custom weapons
+- 6 rarity tiers (Common → Exotic)
 
-#### [Weapons NFT](NFT_Weapons.md)
-- Complex progression system with extensive modifications
-
-#### [Artifacts NFT](NFT_Artifacts.md)
-- ERC-998 composable power slot modifications
+#### [Gear Pieces NFT](NFT_Gear.md)
+- 5-piece armor system (helmet, torso, arms, legs, jetpack)
+- Stat bonuses for damage, defense, abilities, movement, flight
+- 6 rarity tiers with scaling bonuses
 
 ---
 

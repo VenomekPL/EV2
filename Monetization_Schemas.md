@@ -44,34 +44,34 @@ Each booster pack contains:
 ### Pioneer Booster Pack (Example)
 
 **Target Audience**: New players and early adopters
-**Price**: $30 USD
+**Price**: $40 USD
 **Supply**: 10,000 packs maximum
-**Player Reach**: Supports 10,000-30,000 players (pilots/suits transferable)
+**Player Reach**: Supports 10,000+ players with tradeable gear and components
 
 #### Pack Contents
 
 **Guaranteed Items:**
-- **3 Randomized Pilots**: Random stat combinations, varying rarity
-- **3 Baseline Mech Suits**: One of each basic suit type (Tank, Assault, Scout) guaranteed—no randomization
-- **1 Pioneer Chroma Skin**: Exclusive cosmetic for early players
-- **1 Early Access Token**: Grants access to exclusive pioneer-only content
-- **2,000 Premium Currency Points**: Usable for cosmetics or battle pass
+- **5 Rare Weapon Components**: Random mix of bullets, barrels, triggers, mags, stocks, or scopes for weapon crafting
+- **5 Rare Gear Pieces**: Random selection from helmet, torso, arms, legs, or jetpack gear (with stat bonuses)
+- **1 Pioneer Chroma Skin**: Exclusive cosmetic suit skin for early adopters
+- **1 Early Access Token**: Grants access to exclusive Season 1 content
+- **2,500 EV2 Tokens**: Premium currency usable for battle pass, storage expansion, or cosmetics
 
 #### Edition Details
 
 - **Artwork**: Distinctive pioneer-themed booster pack design
-- **Blockchain Recording**: All pack contents recorded on-chain
-- **Transferability**: Unopened packs tradeable at any time
-- **Opening Irreversible**: Once opened, pack dissolves and rewards minted as NFTs
-- **Collectibility**: Unopened Pioneer packs become legacy items
+- **Blockchain Recording**: All pack contents recorded on-chain as NFTs
+- **Transferability**: Unopened packs tradeable at any time on secondary markets
+- **Opening Irreversible**: Once opened, pack dissolves and rewards minted as individual NFTs
+- **Collectibility**: Unopened Pioneer packs become legacy items with increasing value
 
 #### Expected Player Reach
 
 - 10,000 packs sold
-- 3 pilots per pack = 30,000 pilot NFTs
-- 3 suits per pack = 30,000 suit NFTs
-- Pilots + suits transferable = easy redistribution among player base
-- Estimated 10,000-30,000 active players from single edition
+- 5 weapon components per pack = 50,000 component NFTs for crafting custom weapons
+- 5 gear pieces per pack = 50,000 gear NFTs with stat bonuses
+- All items transferable = easy redistribution among player base via trading
+- Estimated 10,000-20,000 active players equipped from single edition
 
 
 
@@ -87,18 +87,18 @@ Boosters represent the core monetization:
 
 **Conservative Scenario:**
 - Average 5,000 packs per edition sold per month
-- $30 average price per pack
-- Monthly revenue: $150,000 USD
+- $40 average price per pack
+- Monthly revenue: $200,000 USD
 
 **Growth Scenario:**
 - Average 20,000 packs per edition sold per month
 - Multiple simultaneous editions available
-- $30-40 average price per pack
-- Monthly revenue: $600,000+ USD
+- $40-50 average price per pack
+- Monthly revenue: $800,000+ USD
 
 **Scaling Scenario:**
 - Active player base of 100,000+ players
-- Regular monthly spending of $10-30 per player
+- Regular monthly spending of $10-30 per player on components, gear, and cosmetics
 - Multiple edition options at varying price points
 - Sustainable recurring monthly revenue model
 
@@ -138,8 +138,8 @@ Special ultra-premium items for guild organizers:
 #### Entry Points
 
 - **$10 USD**: Minimum entry (promotional packs, seasonal discounts)
-- **$25-30 USD**: Standard booster pack tier
-- **$35-40 USD**: Premium booster pack tier
+- **$30-40 USD**: Standard booster pack tier
+- **$50-60 USD**: Premium booster pack tier
 - **$99-149 USD**: Mega packs (multiple boosters + bonuses)
 - **$1,000 USD**: Guild founder tokens (ultra-premium)
 

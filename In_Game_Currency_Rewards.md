@@ -343,9 +343,9 @@ Encourage varied gameplay rather than repetition:
 
 ## Related Documentation
 
-- [NFT_Weapons](NFT_Weapons.md) - Crafting and NFT minting system
-- [NFT_Mech_Suits](NFT_Mech_Suits.md) - Suit upgrades using currency
-- [NFT_Artifacts](NFT_Artifacts.md) - Enhancement components and upgrades
+- [NFT_Weapons](NFT_Weapons.md) - Weapon component crafting system
+- [EV2_Combat_Suits](EV2_Combat_Suits.md) - Suit progression and currency usage
+- [NFT_Gear](NFT_Gear.md) - Gear piece acquisition and upgrades
 - [Blockchain_Integration](Blockchain_Integration.md) - Overall Web3 architecture
 - [Monetization_Schemas](Monetization_Schemas.md) - Economic design overview
 - [README](README.md) - Overall game structure

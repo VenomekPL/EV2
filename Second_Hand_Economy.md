@@ -521,12 +521,10 @@ As the game matures:
 
 ## Related Documentation
 
-- [NFT_Mech_Pilots](NFT_Mech_Pilots.md) - Pilot trading and valuation
 - [NFT_Chroma_Skins](NFT_Chroma_Skins.md) - Cosmetic pricing and collections
 - [NFT_Access_Tokens](NFT_Access_Tokens.md) - Token transfer mechanics
-- [NFT_Mech_Suits](NFT_Mech_Suits.md) - Equipment trading
-- [NFT_Weapons](NFT_Weapons.md) - Weapon valuation and rarity pricing
-- [NFT_Artifacts](NFT_Artifacts.md) - Artifact market dynamics
+- [NFT_Weapons](NFT_Weapons.md) - Weapon component valuation and rarity pricing
+- [NFT_Gear](NFT_Gear.md) - Gear piece market dynamics
 - [In-Game_Currency_Rewards](In-Game_Currency_Rewards.md) - Currency and crafting economics
 - [Blockchain_Integration](Blockchain_Integration.md) - Overall Web3 architecture
 - [Monetization_AntiPatterns](Monetization_AntiPatterns.md) - What NOT to do economically
