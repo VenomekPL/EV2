@@ -24,9 +24,9 @@ Players can trade EV2 assets across multiple integrated platforms:
 
 #### In-Game Marketplace
 
-Direct trading integrated into game client:
+Direct trading integrated into the game client:
 
-- **Built-In Exchange**: Buy/sell NFTs without leaving game
+- **Built-In Exchange**: Buy/sell NFTs without leaving the game
 - **Premium Currency Integration**: Purchase using in-game premium currency
 - **Token Support**: Accept any blockchain token (ETH, USDC, native tokens, etc.)
 - **Seamless UX**: Trading experience optimized for gaming
@@ -238,7 +238,7 @@ Different trading approaches available to players:
 Fixed-price items for immediate purchase:
 
 - **Asking Price**: Seller sets specific price
-- **Instant Purchase**: Buyer purchases immediately at listed price
+- **Instant Purchase**: Buyer purchases immediately at the listed price
 - **No Negotiation**: Take-it-or-leave-it offer
 - **Quick Sales**: Fast execution for sellers
 - **Price Certainty**: Buyers know exact cost upfront
@@ -250,7 +250,7 @@ Competitive bidding for valuable items:
 - **Opening Bid**: Seller sets minimum acceptable price
 - **Bid Increments**: Minimum increase between bids
 - **Duration**: Set time window for bidding (24-72 hours typical)
-- **Automatic Extension**: Extend if bid received near end time
+- **Automatic Extension**: Extend if bid received near the end time
 - **Bidder Protection**: No surprise price jumps at auction end
 - **Winner Notification**: Automatic communication of winning bid
 
@@ -262,7 +262,7 @@ Buyers make offers on listed items:
 - **Negotiation**: Back-and-forth price discussion
 - **Seller Discretion**: Accept/reject/counter-offer
 - **Time-Limited Offers**: Offers expire to prevent stagnation
-- **Bulk Offers**: Buyers offer for multiple items at discount
+- **Bulk Offers**: Buyers offer for multiple items at a discount
 
 #### Collection Offers
 
@@ -298,15 +298,14 @@ What drives NFT prices on secondary market:
 - **Rarity Tier**: Exotic pilots always premium
 - **Age**: Legacy pilots from early seasons command collectible premiums
 
-#### Weapon Pricing
+#### Weapon part Pricing
 
-- **Rarity Tier**: Exotic weapons highest value
+- **Rarity Tier**: Exotic weapon part highest value
 - **Base Stats**: Perfect stat rolls extremely valuable
 - **Modification Progress**: Fully unlocked modifications increase value
-- **Weapon Level**: Leveled weapons worth 3-5x fresh weapons
-- **Unique Modifiers**: Weapons with rare modifier combinations premium
+- **Weapon Level**: Leveled weapon part worth 3-5x fresh weapon part
 - **Meta Relevance**: Currently-competitive builds worth more
-- **Historical Significance**: Legacy weapons from limited events appreciated
+- **Historical Significance**: Legacy weapon parts from limited events are appreciated
 
 #### Artifact Pricing
 
@@ -352,11 +351,6 @@ What drives NFT prices on secondary market:
 
 Game economy designed to prevent runaway inflation:
 
-- **Loot Sinks**: High-end content requires resource consumption
-- **Crafting Costs**: NFT minting requires spending currency
-- **Cosmetic Purchases**: Players spend on account-bound cosmetics
-- **Guild Taxation**: Guilds tax members removing currency from circulation
-- **Content Gating**: Expensive raids consume resources
 - **Seasonal Resets**: Economy rebalanced each season
 
 ### Market Transparency
