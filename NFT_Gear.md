@@ -42,32 +42,32 @@ EV2's gear system consists of **5 lootable armor pieces** that are tradeable NFT
 Gear pieces spawn at six rarity levels, with stat bonuses scaling dramatically:
 
 ### Common
-- **Stats**: Minimal bonuses (~1-2%)
+- **Cosmetic**: Basic quality
 - **Cost**: Free (Holocrons)
 - **Market Value**: Minimal
 
 ### Uncommon
-- **Stats**: Low bonuses (~2-3%)
+- **Cosmetic**: Low key improvements
 - **Cost**: Low (Holocrons)
 - **Market Value**: Low
 
 ### Rare
-- **Stats**: Moderate bonuses (~3-5%)
+- **Cosmetic**: Moderate looks
 - **Cost**: Moderate (Holocrons)
 - **Market Value**: Moderate
 
 ### Epic
-- **Stats**: Significant bonuses (5-10% range)
+- **Cosmetic**: Significant visual improvements and VFX
 - **Cost**: High (Holocrons or EV2 Tokens)
 - **Market Value**: High
 
 ### Legendary
-- **Stats**: Major bonuses (10-20% range)
+- **Cosmetic**: Major visual details and VFX
 - **Cost**: Very high (EV2 Tokens)
 - **Market Value**: Very High
 
 ### Exotic
-- **Stats**: Exceptional bonuses (20-40% range, unique perks)
+- **Cosmetic**: Exceptional VFX and visuals
 - **Cost**: Premium (EV2 Tokens, tournament rewards)
 - **Market Value**: Extreme
 
@@ -85,14 +85,6 @@ Gear pieces spawn at six rarity levels, with stat bonuses scaling dramatically:
 ### Purchasing with Currency
 - **Holocrons** (Free-to-Earn): Purchase Common, Uncommon, Rare gear
 - **EV2 Tokens** (Purchased/Won): Purchase Epic, Legendary, Exotic gear
-
-### Crafting Gear
-Combine lower-tier gear to craft higher-tier gear:
-- **5 Common** → 1 Uncommon
-- **5 Uncommon** → 1 Rare
-- **5 Rare** → 1 Epic
-- **10 Epic** → 1 Legendary
-- **Special Materials** → 1 Exotic (extremely rare)
 
 ### Secondary Market Trading
 - Trade individual gear pieces on blockchain marketplaces
