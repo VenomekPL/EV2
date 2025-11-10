@@ -72,8 +72,7 @@ Ammo drops as consumable account-bound items:
 - **Primary Ammo**: Standard rounds for most weapons
 - **Specialist Ammo**: Specialized ammunition for advanced weapons
 - **Heavy Ammo**: Ammunition for high-powered weaponry
-- **Energy Cells**: Fuel for energy-based weapons
-- **Exotic Rounds**: Rare ammunition with special properties
+- **Energy Battery**: Fuel for jetpack
 - **Restock Frequency**: Regularly drop from enemies to maintain supply
 - **Inventory Limits**: Soft caps encourage usage rather than hoarding
 
@@ -82,8 +81,6 @@ Ammo drops as consumable account-bound items:
 Single-use items that provide temporary benefits:
 
 - **Med Kits**: Restore suit health (small, medium, large variants)
-- **Shield Generators**: Deploy temporary protective barriers
-- **Ammo Boosters**: Temporarily increase ammunition capacity
 - **Weapon Enhancers**: Temporary damage boost to all weapons
 - **Movement Stimulants**: Temporary speed and agility boost
 - **Defensive Stimulants**: Temporary armor increase
@@ -94,9 +91,7 @@ Single-use items that provide temporary benefits:
 
 Account-wide progression boosters:
 
-- **Weapon XP Boosters**: Accelerate weapon leveling
-- **Suit XP Boosters**: Enhance suit experience gain
-- **Combat Multipliers**: Temporary multiplier to all XP sources
+- **Leveling Multipliers**: Temporary multiplier to all XP sources
 - **Duration-Based**: Active for a specific time period
 - **Stackable**: Multiple boosters can combine effects
 - **Earned or Purchased**: Available through gameplay or cosmetic shop
@@ -107,7 +102,7 @@ Resources for visual customization:
 
 - **Color Dyes**: Used to customize [NFT_Chroma_Skins](NFT_Chroma_Skins.md)
 - **Pattern Templates**: Apply designs to equipment
-- **Visual Effects**: Particle effects for weapons and suits
+- **Visual Effects**: Particle effects for weapons and suits (epic, legendary, exotic)
 - **Emote Blueprints**: Animation sets for player characters
 - **Victory Poses**: Special animations for match completion
 - **Spray Decals**: Deployable cosmetic markings
@@ -124,63 +119,6 @@ Social and community progression:
 - **Achievement Badges**: Cosmetic recognition system
 - **Leaderboard Position**: Status indicator of player performance
 
----
-
-## Blueprint to NFT Conversion
-
-### Crafting Process
-
-Converting account-bound blueprints to blockchain NFTs:
-
-1. **Obtain Blueprint**: Drop from enemy or find in loot chest
-2. **Gather Materials**: Collect crafting materials from gameplay
-3. **Spend Currency**: Pay Relic Fragments (amount based on rarity)
-4. **Initiate Craft**: Select blueprint and confirm crafting
-5. **Crafting Time**: Wait for crafting completion (varies by weapon)
-6. **Mint to Blockchain**: Completed weapon part automatically mints as NFT
-7. **Transfer to Wallet**: Weapon part now owned in the player's blockchain wallet
-
-### Conversion Costs
-
-Relic Fragment costs vary by weapon rarity:
-
-- **Common Weapon**: 50 Relic Fragments
-- **Uncommon Weapon**: 150 Relic Fragments
-- **Rare Weapon**: 400 Relic Fragments
-- **Epic Weapon**: 1000 Relic Fragments
-- **Legendary Weapon**: 2500 Relic Fragments
-- **Exotic Weapon**: 5000+ Relic Fragments
-
-*Exact costs to be balanced by development team*
-
-### Crafting Time
-
-Production time before NFT minting:
-
-- **Common**: 30 minutes
-- **Uncommon**: 1 hour
-- **Rare**: 3 hours
-- **Epic**: 8 hours
-- **Legendary**: 24 hours
-- **Exotic**: 48+ hours
-
-**Alternatives to crafting time:**
-- Premium currency to speed up crafting
-- Battle pass tiers for instant crafting access
-- VIP membership reducing crafting time
-- *Specific mechanics to be determined*
-
-### Progression Preservation
-
-Weapon progression carries over to NFT:
-
-- **Weapon Level**: Crafting preserves any accumulated XP
-- **Upgrades**: Any modifications already unlocked remain
-- **Cosmetics**: Applied chromas transfer to minted NFT
-- **Full History**: On-chain record of all previous progression
-- **No Loss**: Converting to blockchain doesn't reset anything
-
----
 
 ## Enemy Drop System
 
@@ -225,10 +163,9 @@ Strategic placement of valuable loot:
 
 Where players spend non-blockchain currency:
 
-- **Weapon Crafting**: Relic Fragments to mint blueprints
+- **Weapon part Crafting**: Relic Fragments to mint blueprints
 - **Skill Unlocks**: Circuit Tokens to advance weapon modifications
 - **Cosmetic Shop**: Account-bound cosmetics purchasable with currency
-- **Fast Travel**: Spend currency to fast travel across map
 - **Respawn Options**: Optional currency cost for immediate respawn
 - **Convenience Features**: Various QoL improvements for currency
 
@@ -295,17 +232,6 @@ Harder missions reward better:
 ---
 
 ## Anti-Farming Measures
-
-### Earning Caps & Timers
-
-Prevent excessive grinding:
-
-- **Daily Currency Caps**: Maximum earneable currency per day (optional)
-- **Weekly Resets**: Caps reset on weekly schedule
-- **Mission Cooldowns**: Limited-time bonus for specific missions
-- **Loot Decay**: Decreased drop rate from repeated enemies
-- **Challenge Limits**: Dungeons/raids have limited runs per period
-- **Seasonal Resets**: Complete economy rebalance each season
 
 ### Engagement Incentives
 
