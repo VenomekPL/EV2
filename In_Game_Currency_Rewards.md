@@ -48,7 +48,7 @@ Weapon and equipment blueprints are primary combat loot:
 
 - **Most Common Drop**: Majority of enemy loot is blueprints
 - **Rarity Variation**: Blueprints spawn at different rarity tiers (common to exotic)
-- **Weapon Type Variety**: Different enemies drop different weapon blueprints
+- **Weapon Type Variety**: Different enemies drop different weapon part blueprints
 - **Duplicate Drops**: Same blueprint found multiple times
 - **Purpose**: Craft into weapons through [NFT_Weapons](NFT_Weapons.md) crafting system
 - **Blueprint Storage**: Stackable inventory, unlimited quantities
@@ -95,10 +95,9 @@ Single-use items that provide temporary benefits:
 Account-wide progression boosters:
 
 - **Weapon XP Boosters**: Accelerate weapon leveling
-- **Pilot XP Boosters**: Speed up pilot progression
 - **Suit XP Boosters**: Enhance suit experience gain
 - **Combat Multipliers**: Temporary multiplier to all XP sources
-- **Duration-Based**: Active for specific time period
+- **Duration-Based**: Active for a specific time period
 - **Stackable**: Multiple boosters can combine effects
 - **Earned or Purchased**: Available through gameplay or cosmetic shop
 
@@ -138,8 +137,8 @@ Converting account-bound blueprints to blockchain NFTs:
 3. **Spend Currency**: Pay Relic Fragments (amount based on rarity)
 4. **Initiate Craft**: Select blueprint and confirm crafting
 5. **Crafting Time**: Wait for crafting completion (varies by weapon)
-6. **Mint to Blockchain**: Completed weapon automatically mints as NFT
-7. **Transfer to Wallet**: Weapon now owned in player's blockchain wallet
+6. **Mint to Blockchain**: Completed weapon part automatically mints as NFT
+7. **Transfer to Wallet**: Weapon part now owned in the player's blockchain wallet
 
 ### Conversion Costs
 
@@ -227,7 +226,6 @@ Strategic placement of valuable loot:
 Where players spend non-blockchain currency:
 
 - **Weapon Crafting**: Relic Fragments to mint blueprints
-- **Suit Upgrades**: Power Cells for armor enhancements
 - **Skill Unlocks**: Circuit Tokens to advance weapon modifications
 - **Cosmetic Shop**: Account-bound cosmetics purchasable with currency
 - **Fast Travel**: Spend currency to fast travel across map
@@ -238,7 +236,7 @@ Where players spend non-blockchain currency:
 
 Cosmetics earned through gameplay (non-NFT):
 
-- **Weapon Skins**: Account-bound cosmetic variants
+- **Weapon part Skins**: Account-bound cosmetic variants
 - **Pilot Customization**: Non-NFT appearance options
 - **Emotes & Poses**: Animation set cosmetics
 - **Trails & Effects**: Visual customization options
