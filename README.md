@@ -19,14 +19,14 @@ EV2 leverages **Avalanche C-Chain (AVAX)** for blockchain integration, enabling:
 ### NFT Assets (Tradeable)
 - **Weapon Components**: 6 modular parts (bullets, barrels, triggers, mags, stocks, scopes) crafted into custom weapons
 - **Gear Pieces**: 5 armor slots (helmet, torso, arms, legs, jetpack) with stat bonuses
-- **Chroma Skins**: Visual cosmetics for suits and weapons
+- **Chroma Skins**: Visual cosmetics for suits and weapon parts
 - **Access Tokens**: Season/content access passes
 - **Guild Tokens**: DAO-based organization management
 
 ### Play-to-Earn
 - **Apex Trials**: 3v3 PvP with EV2 token buy-ins and rewards
 - **High-Stakes PvE**: Select raids and strikes with token rewards
-- **Secondary Market**: All NFTs tradeable on blockchain marketplaces
+- **Secondary Market**: All NFTs are tradeable on blockchain marketplaces
 
 ---
 
