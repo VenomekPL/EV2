@@ -82,7 +82,6 @@ Components spawn at six rarity levels, with higher tiers commanding premium pric
 
 ### Looting (Primary Method)
 - **Enemy Drops**: Kill enemies to loot random components
-- **Player Drops** (PvP): Loot defeated players for components (risk: losing common components if killed)
 - **Boss Rewards**: Rare/Epic/Legendary components from bosses
 - **Raid Drops**: Exotic components from 6-player raids
 
