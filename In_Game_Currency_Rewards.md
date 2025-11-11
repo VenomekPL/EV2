@@ -8,16 +8,8 @@ This page documents the non-blockchain reward systems that form the backbone of 
 
 ## Currency System
 
-### Relic Fragments
-
-Primary currency for blockchain asset acquisition:
-
-- **What It Is**: Crystalline resource harvested from defeated enemies and environmental sources
-- **Primary Use**: Required to mint weapon blueprints into blockchain NFTs
-- **How to Earn**: Drop from enemies, found in loot chests, mission completion rewards
-- **Account-Bound**: Cannot be traded directly (prevents gold selling)
-- **Stackable**: Accumulate without limit
-- **Weekly Caps**: *Optional mechanic to be determined by development team*
+- **EV2 Token**: Hard currency
+- **Holocron**: Soft currency
 
 ### Other Tech Currencies
 
@@ -41,29 +33,6 @@ Additional specialized resources:
 ---
 
 ## Loot Categories
-
-### Blueprint Drops
-
-Weapon and equipment blueprints are primary combat loot:
-
-- **Most Common Drop**: Majority of enemy loot is blueprints
-- **Rarity Variation**: Blueprints spawn at different rarity tiers (common to exotic)
-- **Weapon Type Variety**: Different enemies drop different weapon part blueprints
-- **Duplicate Drops**: Same blueprint found multiple times
-- **Purpose**: Craft into weapons through [NFT_Weapons](NFT_Weapons.md) crafting system
-- **Blueprint Storage**: Stackable inventory, unlimited quantities
-
-### Crafting Materials
-
-Resources required for weapon and armor crafting:
-
-- **Component Fragments**: Basic building blocks from defeated enemies
-- **Rare Alloys**: Higher quality materials from tough encounters
-- **Exotic Minerals**: Rare crafting materials from boss drops
-- **Elemental Essences**: Special materials for status effect upgrades
-- **Catalyst Compounds**: Materials for transformative modifiers
-- **Accumulation**: Collected and stored in inventory
-- **Conversion**: Trade materials directly for crafting recipes
 
 ### Ammunition (Generic Categories)
 
@@ -103,7 +72,7 @@ Resources for visual customization:
 - **Color Dyes**: Used to customize [NFT_Chroma_Skins](NFT_Chroma_Skins.md)
 - **Pattern Templates**: Apply designs to equipment
 - **Visual Effects**: Particle effects for weapons and suits (epic, legendary, exotic)
-- **Emote Blueprints**: Animation sets for player characters
+- **Emotes**: Animation sets for player characters
 - **Victory Poses**: Special animations for match completion
 - **Spray Decals**: Deployable cosmetic markings
 - **Purely Visual**: No gameplay impact
@@ -129,20 +98,8 @@ How loot is awarded from defeated enemies:
 - **Guaranteed Drops**: Every enemy guarantees some loot
 - **Tiered System**: Stronger enemies grant better loot
 - **Random Selection**: Loot type randomized from possible drops
-- **Rarity Variance**: Rarity of blueprints randomized
-- **Special Drops**: Rare chance for exotic blueprints
 - **Environmental Variation**: Different areas favor different loot types
 - **Boss Guarantees**: Boss enemies guarantee rare drops
-
-### Drop Categories by Enemy Type
-
-Different enemies prioritize different loot:
-
-- **Standard Hive Creatures**: Common blueprints, primary ammo
-- **Elite Hive Units**: Uncommon blueprints, specialist ammo
-- **Boss Creatures**: Rare blueprints, exotic materials
-- **Mini-Bosses**: Epic blueprints, rare crafting materials
-- **Raid Bosses**: Legendary/Exotic blueprints, unique components
 
 ### Loot Chests & Containers
 
@@ -163,7 +120,6 @@ Strategic placement of valuable loot:
 
 Where players spend non-blockchain currency:
 
-- **Weapon part Crafting**: Relic Fragments to mint blueprints
 - **Skill Unlocks**: Circuit Tokens to advance weapon modifications
 - **Cosmetic Shop**: Account-bound cosmetics purchasable with currency
 - **Respawn Options**: Optional currency cost for immediate respawn
@@ -208,10 +164,10 @@ Rewards for successful mission completion:
 
 Harder missions reward better:
 
-- **Normal Difficulty**: Standard currency and rare blueprints
-- **Hard Difficulty**: 1.5x currency, better blueprint rarity
-- **Nightmare Difficulty**: 2x currency, epic blueprint rates
-- **Mythic Difficulty**: 3x currency, legendary blueprints possible
+- **Normal Difficulty**: Standard currency and rare parts
+- **Hard Difficulty**: 1.5x currency, better parts
+- **Nightmare Difficulty**: 2x currency, epic parts
+- **Mythic Difficulty**: 3x currency, legendary parts possible
 - **Seasonal Challenges**: Limited-time ultra-hard missions with exotic rewards
 
 ---
