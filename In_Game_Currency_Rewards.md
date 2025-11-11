@@ -23,7 +23,7 @@ Primary currency for blockchain asset acquisition:
 
 Additional specialized resources:
 
-- **Power Cells**: Energy-type currency used for suit upgrades
+- **Power Cells**: Energy-type currency used for jetpacks
 - **Alloy Credits**: Crafting materials for armor enhancements
 - **Circuit Tokens**: Used for weapon modification unlocks
 - **Catalyst Essence**: Currency for special ability enhancements
